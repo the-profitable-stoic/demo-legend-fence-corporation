@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Legend Fence Corporation",
+    "phone": "+16192826001",
+    "category": "fence contractor",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's Premier Fence Experts",
+      "heroSubline": "Durable fences built to withstand the San Diego climate. Expert installation and repair services for lasting security and curb appeal.",
+      "aboutTitle": "Built on Integrity, Fortified by Experience",
+      "aboutText": [
+        "Legend Fence Corporation started with a simple goal: to provide San Diego homeowners and businesses with fences that stand the test of time. We're not just building fences; we're building relationships with our clients, one project at a time.",
+        "Our approach is straightforward: honest assessments, clear communication, and meticulous craftsmanship. We understand the unique challenges of San Diego's climate, from coastal salt air to inland wildfire risks, and build our fences accordingly.",
+        "We're deeply rooted in the San Diego community and committed to giving back. We actively support local initiatives and partner with organizations that enhance the quality of life for our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled fence builders using proven techniques and quality materials."
+        },
+        {
+          "title": "Weather-Resistant Materials",
+          "description": "Fences designed to withstand San Diego's sun, salt air, and occasional storms."
+        },
+        {
+          "title": "Custom Design Options",
+          "description": "Tailored fence solutions to match your property's style and security needs."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion with clear communication and no hidden costs."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote for your fence project. Call us now!"
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences installed with precision and built to last.",
+        "description": "Wood fences offer timeless appeal and natural warmth to any San Diego property. At Legend Fence Corporation, we specialize in crafting wood fences that are both beautiful and durable. We use premium-grade lumber, pressure-treated for resistance to rot and insects, ensuring years of reliable service. Our experienced installers meticulously construct each fence, paying close attention to detail to achieve a flawless finish. We offer a variety of wood fence styles, from traditional picket fences to privacy-enhancing board-on-board designs. Consider the coastal salt air in areas like La Jolla and Pacific Beach – we can recommend wood types and treatments to mitigate corrosion. \n\nWe handle all aspects of the installation process, from site preparation and post setting to panel installation and finishing touches. Our team works efficiently and respectfully, minimizing disruption to your property. We also provide staining and sealing services to protect your wood fence from the elements and enhance its natural beauty. \n\nWhether you're looking to add curb appeal to your home or create a secure enclosure for your family, a wood fence from Legend Fence Corporation is an excellent choice.",
+        "process": [
+          "Step 1: Site Assessment & Consultation",
+          "Step 2: Material Selection & Design",
+          "Step 3: Precise Installation",
+          "Step 4: Finishing & Cleanup"
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Improved Curb Appeal",
+          "Natural Beauty",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for fences in San Diego?",
+            "answer": "Pressure-treated redwood or cedar are excellent choices due to their natural resistance to decay and insects. Proper sealing will further extend their lifespan."
+          },
+          {
+            "question": "How long does wood fence installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but most residential wood fence installations take between 2-5 days."
+          },
+          {
+            "question": "Do I need a permit for a wood fence?",
+            "answer": "In San Diego, fence permits are typically required for fences exceeding certain height restrictions. We handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences expertly installed for long-lasting beauty and security.",
+        "description": "Vinyl fences are a popular choice for San Diego homeowners seeking a durable, low-maintenance fencing solution. Legend Fence Corporation specializes in professional vinyl fence installation, offering a wide range of styles and colors to complement any property. Our vinyl fences are made from high-quality materials that resist fading, cracking, and warping, ensuring years of worry-free enjoyment. Unlike wood fences, vinyl fences never need painting or staining, saving you time and money on maintenance. \n\nWe offer a variety of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences. Our experienced installers meticulously assemble each fence, ensuring a secure and aesthetically pleasing result. We also offer custom vinyl fence designs to meet your specific needs and preferences. Given the prevalence of 1970s-80s suburban developments in areas like Scripps Ranch, vinyl fences are often a practical and stylish choice for updating existing properties.\n\nWith Legend Fence Corporation, you can rest assured that your vinyl fence will be installed to the highest standards of quality and craftsmanship. We handle all aspects of the installation process, from site preparation to post setting and panel assembly. We also provide ongoing support and maintenance to keep your vinyl fence looking its best.",
+        "process": [
+          "Step 1: Site Preparation & Layout",
+          "Step 2: Precise Post Setting",
+          "Step 3: Panel Installation & Alignment",
+          "Step 4: Final Inspection & Cleanup"
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Long-Lasting Durability",
+          "Variety of Styles",
+          "Weather Resistance"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last for 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Can I paint a vinyl fence?",
+            "answer": "While not recommended, you can paint a vinyl fence with a paint specifically designed for vinyl surfaces."
+          },
+          {
+            "question": "Are vinyl fences environmentally friendly?",
+            "answer": "Vinyl fences are recyclable and require no chemical treatments, making them a more environmentally friendly option than some other fence materials."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Secure and affordable chain link fences for residential and commercial properties.",
+        "description": "Chain link fences provide a cost-effective and reliable security solution for San Diego properties. Legend Fence Corporation offers professional chain link fence installation services, catering to both residential and commercial clients. Our chain link fences are constructed from galvanized steel, providing excellent strength and resistance to corrosion. We offer a variety of chain link fence heights and gauges to meet your specific security needs. \n\nChain link fences are ideal for enclosing yards, securing commercial properties, and creating pet enclosures. They offer excellent visibility while providing a strong deterrent to intruders. Our experienced installers meticulously construct each fence, ensuring a secure and aesthetically pleasing result. We can also add privacy slats to your chain link fence for increased privacy and wind protection. \n\nAt Legend Fence Corporation, we understand the importance of security and affordability. Our chain link fences provide a practical and reliable solution for protecting your property. We offer competitive pricing and efficient installation services, minimizing disruption to your daily routine. Consider the need for wildfire protection in inland areas like Escondido – chain link provides a non-combustible barrier.",
+        "process": [
+          "Step 1: Precise Layout & Post Setting",
+          "Step 2: Fabric Installation & Tensioning",
+          "Step 3: Gate Installation & Adjustment",
+          "Step 4: Final Inspection & Cleanup"
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Durable Construction",
+          "Easy Maintenance",
+          "Versatile Applications"
+        ],
+        "faq": [
+          {
+            "question": "How much does a chain link fence cost?",
+            "answer": "The cost of a chain link fence depends on the height, gauge, and length of the fence. Contact us for a free quote."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer privacy slats in a variety of colors to enhance the privacy of your chain link fence."
+          },
+          {
+            "question": "How long does chain link fence installation take?",
+            "answer": "Most chain link fence installations can be completed in 1-3 days, depending on the size and complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair-services",
+        "name": "Fence Repair Services",
+        "shortDescription": "Fast and reliable fence repair services to restore the security and beauty of your fence.",
+        "description": "San Diego's diverse climate can take a toll on fences, leading to damage from sun, wind, and moisture. Legend Fence Corporation offers comprehensive fence repair services to restore the security and beauty of your fence. Whether you have a broken post, damaged panel, or sagging gate, our experienced technicians can quickly diagnose the problem and provide an effective solution. We work with all types of fences, including wood, vinyl, and chain link. \n\nOur fence repair services include post replacement, panel repair, gate repair, and hardware replacement. We use high-quality materials to ensure lasting repairs that blend seamlessly with your existing fence. We understand the importance of prompt service, especially when security is compromised. We offer emergency fence repair services to address urgent issues and prevent further damage. \n\nAt Legend Fence Corporation, we are committed to providing reliable and affordable fence repair services. We offer free estimates and transparent pricing, so you know exactly what to expect before we begin work. Don't let a damaged fence compromise the security and beauty of your property – contact us today for expert fence repair services.",
+        "process": [
+          "Step 1: Thorough Damage Assessment",
+          "Step 2: Material Procurement",
+          "Step 3: Expert Repair & Restoration",
+          "Step 4: Quality Assurance & Cleanup"
+        ],
+        "benefits": [
+          "Restored Security",
+          "Enhanced Curb Appeal",
+          "Extended Fence Life",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair?",
+            "answer": "Signs of fence damage include broken posts, sagging panels, leaning fence lines, and loose gates."
+          },
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations where security is compromised."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-and-repair",
+        "name": "Gate Installation and Repair",
+        "shortDescription": "Secure and stylish gates expertly installed and repaired for optimal functionality.",
+        "description": "A well-functioning gate is essential for security, convenience, and curb appeal. Legend Fence Corporation offers professional gate installation and repair services for San Diego homeowners and businesses. We install a wide range of gates, including driveway gates, pedestrian gates, and security gates. Our gates are constructed from high-quality materials and designed to provide years of reliable service. \n\nOur gate installation services include site preparation, post setting, gate assembly, and hardware installation. We pay close attention to detail to ensure that your gate operates smoothly and securely. We also offer custom gate designs to meet your specific needs and preferences. \n\nIn addition to gate installation, we also provide comprehensive gate repair services. Whether you have a sagging gate, broken hinge, or malfunctioning latch, our experienced technicians can quickly diagnose the problem and provide an effective solution. We repair all types of gates, including wood, vinyl, and metal gates. Legend Fence Corporation knows that many homes in the North Park and Hillcrest areas have unique architectural styles, and we can tailor gate designs to match these aesthetics.",
+        "process": [
+          "Step 1: Precise Measurements & Planning",
+          "Step 2: Secure Post Installation",
+          "Step 3: Gate Assembly & Alignment",
+          "Step 4: Hardware Installation & Adjustment"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Curb Appeal",
+          "Increased Convenience",
+          "Reliable Functionality"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your security needs, aesthetic preferences, and budget. We can help you choose the right gate for your property."
+          },
+          {
+            "question": "How much does gate installation cost?",
+            "answer": "The cost of gate installation depends on the type of gate, the size of the opening, and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "Do you offer automatic gate openers?",
+            "answer": "Yes, we offer automatic gate openers for added convenience and security."
+          }
+        ]
+      },
+      {
+        "slug": "security-fence-installation",
+        "name": "Security Fence Installation",
+        "shortDescription": "Robust security fences designed to protect your property and provide peace of mind.",
+        "description": "Protecting your property from unauthorized access is paramount, and Legend Fence Corporation specializes in installing robust security fences for San Diego businesses and homeowners. We understand the unique security challenges faced by properties in this region, and our security fences are designed to provide a strong deterrent against intruders. We offer a variety of security fence options, including high-security chain link fences, wrought iron fences, and steel fences. \n\nOur security fence installation services include site assessment, fence design, material selection, and professional installation. We use high-quality materials and proven construction techniques to ensure that your security fence provides reliable protection for years to come. We can also integrate access control systems, such as gates, keypads, and cameras, to further enhance your security. \n\nAt Legend Fence Corporation, we are committed to providing our clients with the highest level of security. We work closely with you to understand your specific security needs and develop a customized security fence solution that meets your budget and requirements. We understand the importance of earthquake preparedness in San Diego and will design fence installations with that in mind.",
+        "process": [
+          "Step 1: On-Site Risk Assessment",
+          "Step 2: Customized Security Design",
+          "Step 3: Reinforced Installation",
+          "Step 4: Integrated Security Features"
+        ],
+        "benefits": [
+          "Enhanced Protection",
+          "Deterrent to Intruders",
+          "Increased Property Value",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What type of security fence is best for my business?",
+            "answer": "The best type of security fence depends on your specific security needs and the level of risk you face. We can help you choose the right security fence for your business."
+          },
+          {
+            "question": "How much does a security fence cost?",
+            "answer": "The cost of a security fence depends on the type of fence, the height of the fence, and the length of the fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Can I add barbed wire to my security fence?",
+            "answer": "Barbed wire is permitted in some areas of San Diego, but restrictions may apply. We can advise you on the legality of barbed wire in your area."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is proud to offer our expert fence installation and repair services to the residents of Chula Vista, California. We understand the unique needs of this vibrant community, known for its family-friendly atmosphere and diverse architectural styles. From securing your property to enhancing its curb appeal, we provide a range of fencing solutions tailored to your specific requirements.\n\nChula Vista's landscape is dotted with many homes built in the 1970s and 80s, often featuring spacious yards perfect for families and pets. We specialize in installing and repairing fences that complement these classic suburban homes, offering styles like wood privacy fences, chain-link fences for security, and decorative wrought iron fences to add a touch of elegance. Our team is committed to providing exceptional craftsmanship and reliable service, ensuring your complete satisfaction. We can help you navigate HOA requirements and city ordinances to ensure a smooth and stress-free fence installation process.",
+        "localContext": "Chula Vista, a large suburban city near San Diego, is characterized by 1970s-80s suburban homes and a mild year-round climate.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Imperial Beach"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is delighted to serve the beautiful coastal community of Carlsbad, California. We recognize the unique charm and aesthetic preferences of this beachside city, known for its stunning ocean views, charming cottages, and relaxed lifestyle. Whether you're looking to enhance the privacy of your beach cottage or create a secure enclosure for your family, we offer a wide selection of fencing options to suit your needs.\n\nCarlsbad's coastal location and mild climate make it an ideal place to enjoy outdoor living. We offer fencing solutions that not only provide security and privacy but also complement the natural beauty of the area. From classic white picket fences to modern vinyl designs, we can help you create a fence that enhances your property's curb appeal and reflects your personal style. Our team is dedicated to providing exceptional service and quality craftsmanship, ensuring your complete satisfaction.",
+        "localContext": "Carlsbad is a beautiful beach community known for its charming cottages and a mild year-round climate.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is proud to offer our professional fencing services to the residents of Escondido, California. We understand the unique characteristics of this inland community, known for its agricultural heritage and diverse neighborhoods. Whether you own a sprawling ranch home or a cozy bungalow, we provide a range of fencing solutions to meet your specific needs.\n\nEscondido features many ranch-style homes from the 1960s and 70s. We specialize in fences that complement these homes, providing security, privacy, and aesthetic appeal. We offer options like wood fences, wrought iron fences, and vinyl fences, all designed to withstand the local climate and enhance your property's value. We also understand the importance of adhering to local regulations and HOA guidelines, ensuring a smooth and hassle-free installation process.",
+        "localContext": "Escondido is an inland city known for its 1960s-70s ranch homes and a mild year-round climate.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Vista",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Marcos",
+        "slug": "san-marcos-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is dedicated to providing top-quality fence installation and repair services in San Marcos, California. We understand the diverse needs of this growing community, known for its family-friendly environment and beautiful parks. From securing your property to enhancing its aesthetic appeal, we offer a wide range of fencing solutions tailored to your specific requirements.\n\nSan Marcos has a mix of newer developments and established neighborhoods. We specialize in all types of fencing to complement these varying styles, from wood privacy fences to decorative wrought iron. We pride ourselves on our commitment to quality, reliability, and customer satisfaction. Our team is experienced in navigating local regulations and HOA guidelines to ensure a seamless and stress-free installation process.",
+        "localContext": "San Marcos is a growing city in San Diego County, known for its family-friendly environment.",
+        "nearbyAreas": [
+          "Escondido",
+          "Vista",
+          "Carlsbad"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is proud to offer our professional fencing services to the residents of Oceanside, California. We understand the needs of this coastal community, known for its beautiful beaches and vibrant downtown. Whether you are looking to enhance your property's privacy, security, or aesthetic appeal, we have the perfect fencing solution for you.\n\nOceanside's coastal location requires durable and weather-resistant fencing options. We offer a variety of materials, including vinyl, wood, and metal, that are designed to withstand the elements and maintain their beauty for years to come. We are committed to providing exceptional customer service and quality workmanship, ensuring your complete satisfaction. Our team is familiar with local building codes and regulations, making your fence installation project hassle-free.",
+        "localContext": "Oceanside is a coastal city in northern San Diego County with a vibrant downtown area.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Vista",
+          "Encinitas"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is pleased to serve the residents of Encinitas, California, with our expert fence installation and repair services. We understand the unique character of this coastal community, known for its beautiful beaches and laid-back lifestyle. Whether you're looking to enhance your property's privacy, security, or curb appeal, we offer a wide range of fencing solutions to meet your needs.\n\nEncinitas features a mix of architectural styles, from charming beach cottages to modern homes. We offer a variety of fencing options to complement any style, including wood, vinyl, and wrought iron. We are committed to providing exceptional customer service and quality workmanship, ensuring your complete satisfaction. Our team is knowledgeable about local regulations and HOA guidelines, making your fence installation project smooth and stress-free.",
+        "localContext": "Encinitas is a coastal city in northern San Diego County known for its beautiful beaches and laid-back atmosphere.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Solana Beach",
+          "Rancho Santa Fe"
+        ]
+      },
+      {
+        "city": "Vista",
+        "slug": "vista-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is proud to provide our expert fence services to the residents of Vista, California. We understand the unique characteristics of this diverse community, known for its agricultural roots and family-friendly atmosphere. Whether you need a fence for security, privacy, or aesthetic enhancement, we offer a wide range of solutions tailored to your specific needs.\n\nVistahas a mix of residential and agricultural properties, requiring versatile fencing options. We specialize in wood, vinyl, and chain-link fences, and are experienced in meeting the needs of both residential and agricultural customers. We are committed to providing top-notch service and quality workmanship, ensuring your complete satisfaction. Our team is familiar with local zoning regulations and HOA requirements, making your fence installation project a breeze.",
+        "localContext": "Vista is a diverse city in northern San Diego County, known for its agricultural heritage and family-friendly environment.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Escondido",
+          "Oceanside"
+        ]
+      },
+      {
+        "city": "Poway",
+        "slug": "poway-ca",
+        "state": "CA",
+        "content": "Legend Fence Corporation is delighted to serve the community of Poway, California, with our professional fence installation and repair services. We understand the unique character of this city, known for its rural charm and equestrian-friendly atmosphere. Whether you need a fence for your home, ranch, or business, we offer a comprehensive range of solutions tailored to your specific requirements.\n\nPoway's semi-rural setting often requires fencing solutions for livestock, privacy, and security. We specialize in wood, vinyl, and ranch-style fences, and are experienced in meeting the needs of both residential and agricultural customers. We are committed to providing exceptional customer service and superior workmanship, ensuring your complete satisfaction. Our team is familiar with local building codes and HOA guidelines, making your fence project a smooth and successful one.",
+        "localContext": "Poway is a city in San Diego County known for its rural charm and equestrian-friendly community.",
+        "nearbyAreas": [
+          "Escondido",
+          "Ramona",
+          "Santee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Legend Fence did an excellent job installing our new wood fence. The crew was professional, efficient, and the fence looks fantastic. Our backyard feels so much more private now. Great value for the price!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed quickly for our commercial property, and Legend Fence delivered. The installation was fast and the fence is sturdy. Would recommend!",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I am so happy with my new vinyl fence! It looks beautiful and requires no maintenance. The team at Legend Fence was very helpful in choosing the right style and color for my home. Excellent service!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Fence Repair Services",
+        "text": "Legend Fence repaired our damaged wood fence quickly and efficiently. They were able to match the existing wood perfectly, and the repair is seamless. Highly recommend their repair services!",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Gate Installation",
+        "text": "We had a custom gate installed by Legend Fence, and it looks amazing! The craftsmanship is excellent, and the gate operates smoothly. The only reason I didn't give 5 stars is there was a small delay in the install. Overall a great experience.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Security Fence Installation",
+        "text": "Legend Fence installed a security fence around our business, and we feel so much safer now. The fence is strong and well-built. Great job!",
+        "date": "2025-01-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Legend Fence: San Diego Fence Contractor",
+        "description": "Expert fence installation & repair in San Diego, CA. Wood, vinyl, chain link fences. Free quotes. Top-rated local service."
+      },
+      "about": {
+        "title": "About Legend Fence - San Diego, CA",
+        "description": "Learn about Legend Fence Corporation in San Diego. Quality fence services, experienced team, and commitment to customer satisfaction."
+      },
+      "services": {
+        "title": "San Diego Fence Services | Legend Fence",
+        "description": "Wood, vinyl, chain link fence installation & repair in San Diego, CA. Security fences, gate services, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Legend Fence - San Diego, CA",
+        "description": "Contact Legend Fence Corporation for fence installation & repair in San Diego. Call us for a free quote or to schedule a consultation."
+      },
+      "reviews": {
+        "title": "Legend Fence Reviews - San Diego, CA",
+        "description": "Read reviews of Legend Fence Corporation in San Diego, CA. See what our satisfied customers are saying about our fence services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Legend Fence Corporation",
+        "description": "Legend Fence Corporation provides fence services in San Diego, Chula Vista, Carlsbad, Escondido and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "fence-repair-services": "/images/service-fence-repair-services.webp",
+      "gate-installation-and-repair": "/images/service-gate-installation-and-repair.webp",
+      "security-fence-installation": "/images/service-security-fence-installation.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair-services": {
+        "src": "/images/service-fence-repair-services.webp",
+        "srcset": "/images/service-fence-repair-services-400w.webp 400w, /images/service-fence-repair-services-800w.webp 800w, /images/service-fence-repair-services-1200w.webp 1200w, /images/service-fence-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-and-repair": {
+        "src": "/images/service-gate-installation-and-repair.webp",
+        "srcset": "/images/service-gate-installation-and-repair-400w.webp 400w, /images/service-gate-installation-and-repair-800w.webp 800w, /images/service-gate-installation-and-repair-1200w.webp 1200w, /images/service-gate-installation-and-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "security-fence-installation": {
+        "src": "/images/service-security-fence-installation.webp",
+        "srcset": "/images/service-security-fence-installation-400w.webp 400w, /images/service-security-fence-installation-800w.webp 800w, /images/service-security-fence-installation-1200w.webp 1200w, /images/service-security-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
